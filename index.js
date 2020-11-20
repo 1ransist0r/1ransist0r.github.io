@@ -4,7 +4,7 @@ function myFunction()
 {
   if (num % 2 == 0)
   {
-    document.getElementById('pText').innerHTML = 'Autism.';
+    document.getElementById('pText').innerHTML = 'Stupid.';
     document.getElementById('pText').style.color = 'red';
     document.getElementById('dimg').style.width = "1000px";
     document.getElementById('dimg').style.height = "80";
